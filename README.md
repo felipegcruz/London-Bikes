@@ -14,7 +14,7 @@ Please note that the use of this dataset may be subject to the terms and conditi
 
 If you use this dataset in your research or analysis, we kindly request you to cite this repository to acknowledge the data source:
 
-[GitHub Repository](https://github.com/yourusername/bike-sharing-london)
+[GitHub Repository](https://github.com/felipegcruz/London-Bikes)
 
 ## Disclaimer
 
